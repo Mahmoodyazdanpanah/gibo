@@ -3,7 +3,7 @@
 **gibo** (short for .gitignore boilerplates) is a command-line tool to help you easily access .gitignore boilerplates from [github.com/github/gitignore](https://github.com/github/gitignore).
 
 ## Typical usage
-
+ 
 ```command
 gibo dump Swift Xcode >> .gitignore
 ```
